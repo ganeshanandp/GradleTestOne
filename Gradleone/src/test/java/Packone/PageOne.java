@@ -8,6 +8,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.AfterTest;
 import io.github.bonigarcia.wdm.WebDriverManager;
  
+//TestNG Gradle Combination
 class PageOne
 {
     WebDriver driver;
